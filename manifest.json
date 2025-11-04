@@ -1,11 +1,11 @@
 {
   "name": "tookilig",
   "short_name": "tookilig",
-  "start_url": "/?source=pwa",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#16a34a",
+  "background_color": "#F4FF7A", 
+  "theme_color": "#16A34A",
   "description": "Offline-first singles meet-ups: vibe IRL, feel good being single.",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
@@ -13,3 +13,4 @@
     { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable any" }
   ]
 }
+
